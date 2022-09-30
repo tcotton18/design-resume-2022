@@ -3,13 +3,13 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Jimmy Hendricks
-description-meta: 'This is the meta description for the HTML file, and one day the PDF file, for better SEO?'
+title: Troy Cotton Resume
+description-meta: 'Troy Cotton UX Design Resume, Transition from Healthcare to UX Design'
 keywords: 
-  - 'php' 
-  - 'mysql' 
-  - 'linux'
-author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
+  - 'atlanta ux' 
+  - 'healthcare' 
+  - 'ux designer'
+author-meta: 'Troy Cotton'
 ---
 ## Troy Cotton 
 Emerging UX Designer | Product Manager | Healthcare Leader 
@@ -35,14 +35,19 @@ My transition to UX design is a direct result of years of being open to solving 
 ``` Agile Frameworks: Kanban/Lean```
 
 
-## Experience
-### CEO and Founder, Pied Piper 
-start-date-end-date, City, State and remote
+## UX/Product Experience
+### Product Manager, AWS at Emory, Emory University
+February 2022 - Present, Atlanta, GA and Remote
 
-- Things you did/do here 
-- More things that you do here. 
+- Leads product training, growth marketing campaigns, solution development and user advocacy for Amazon Web Services at Emory environment.
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+- Conducts user surveys, interviews and field studies to drive product design improvements. 
+
+- Documents user journey maps, faculty/researcher use cases and maintains knowledge base articles. 
+
+- Collaborates with Dev Ops team to plan product changes and communicate downtime procedures.  
+
+**Technologies used:** Mailchimp, REDCap, Amazon Web Services, AWS Academy, 
 
 ### Senior Software Architect, Hooli
 2010-2016, San Francisco, CA
