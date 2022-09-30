@@ -17,25 +17,23 @@ Emerging UX Designer | Product Manager | Healthcare Leader
 My transition to UX design is a direct result of years of being open to solving new challenges in the healthcare operations space. I’ve solved financial analysis questions by facilitating workshops and designing diagrams; I’ve advocated for additional resources using visual storytelling techniques; and, I’ve designed communication strategies and workflows to inform and empower healthcare providers. Knowing how to directly apply my creativity to new environments will allow me to continue growing and flourishing as a UX Designer. 
 ###### [[example.com](https://example.com)] . [ me@example.com] . [ tcotton18@gmail.com ]
 
-## UX Skills
-``` programming```
-``` devops ```
-```databases```
-```containers```
-```linux systems administration```
-```webservers```
-```project management```
-```system architecture & design```
-```entrepreneurship```
-```load/stress testing```
-``` WordPress```
+## UX/Product Skills
+``` Prototyping/Wireframing```
+``` Competitive Analysis ```
+``` User Interviews/User Testing```
+``` Information Architecture```
+``` Agile Framework: Scrum```
+
+**Programming Languages**: HTML 5, CSS 3, Javascript  
+**Cloud Computing**: Amazon Web Services S3 and EC2 Services
 
 ## Business Operations Skills
+``` Visual Communication Strategy```
+``` Financial Analysis```
+``` Workshop Planning/Facilitation```
+``` Conflict Management```
+``` Agile Frameworks: Kanban/Lean```
 
-**Programming**: Lua, Haskell, Erlang, Go, Javascript  
-**Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick  
-**Linux**: Gentoo, Alpine, CentOS, Ubuntu, Debian  
-**DevOps**: Ansible, Chef, Kubernetes, etc.  
 
 ## Experience
 ### CEO and Founder, Pied Piper 
