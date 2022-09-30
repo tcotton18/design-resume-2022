@@ -11,7 +11,9 @@ keywords:
   - 'linux'
 author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 ---
-###### [[example.com](https://example.com)] . [ me@example.com] . [ 123 456 7890 ]
+## Troy Cotton 
+Emerging UX Designer | Product Manager | Healthcare Leader 
+###### [[example.com](https://example.com)] . [ me@example.com] . [ tcotton18@gmail.com ]
 ### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way.  
 
 ## Skills
@@ -54,9 +56,10 @@ start-date-end-date, City, State and remote
   * People Magazine's sexiest man alive at 123 My Address, MyCity, TX
 
 ## Projects
-**[*Personal Blog*](http://luther.io)** (2021-present)
+### Fellow, Radiology Leadership Academy, Emory University
+2018 - 2019 | Atlanta, GA
 
-- Authored a series of articles covering a wide variety of topics and tools related to technology like PHP, WordPress, Ruby, Linux, Docker, and Privacy.
+- Worked collaboratively with clinicians and administrative teams to create content and redesign the patient education experience for PET/CT exams. 
 
 ## Education 
 
