@@ -14,7 +14,7 @@ author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 ## Troy Cotton 
 Emerging UX Designer | Product Manager | Healthcare Leader 
 
-My transition to UX design is a direct result of years of being open to solving new challenges in the healthcare operations space. I’ve solved financial analysis questions by facilitating workshops and designing diagrams; I’ve advocated for additional resources using visual storytelling techniques; and, I’ve designed communication strategies and workflows to inform and empower healthcare providers. Leveraging these techniques throughout my career has allowed me to flourish as a UX designer.
+My transition to UX design is a direct result of years of being open to solving new challenges in the healthcare operations space. I’ve solved financial analysis questions by facilitating workshops and designing diagrams; I’ve advocated for additional resources using visual storytelling techniques; and, I’ve designed communication strategies and workflows to inform and empower healthcare providers. Knowing how to directly apply my creativity to new environments will allow me to continue growing and flourishing as a UX Designer. 
 ###### [[example.com](https://example.com)] . [ me@example.com] . [ tcotton18@gmail.com ]
 
 ## UX Skills
