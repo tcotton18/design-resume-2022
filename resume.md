@@ -13,10 +13,11 @@ author-meta: 'This will show up as <meta name"author"... in HTML meta tags:'
 ---
 ## Troy Cotton 
 Emerging UX Designer | Product Manager | Healthcare Leader 
-###### [[example.com](https://example.com)] . [ me@example.com] . [ tcotton18@gmail.com ]
-### This is where you have your statement, that describes who you are and what you're looking for. Hopefully it's not cliche and it stands out in a good way.  
 
-## Skills
+My transition to UX design is a direct result of years of being open to solving new challenges in the healthcare operations space. I’ve solved financial analysis questions by facilitating workshops and designing diagrams; I’ve advocated for additional resources using visual storytelling techniques; and, I’ve designed communication strategies and workflows to inform and empower healthcare providers. Leveraging these techniques throughout my career has allowed me to flourish as a UX designer.
+###### [[example.com](https://example.com)] . [ me@example.com] . [ tcotton18@gmail.com ]
+
+## UX Skills
 ``` programming```
 ``` devops ```
 ```databases```
@@ -28,6 +29,8 @@ Emerging UX Designer | Product Manager | Healthcare Leader
 ```entrepreneurship```
 ```load/stress testing```
 ``` WordPress```
+
+## Business Operations Skills
 
 **Programming**: Lua, Haskell, Erlang, Go, Javascript  
 **Databases**: MySQL, Postgres, sqlite, SQL Server, Oracle, Pick  
