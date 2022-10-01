@@ -47,15 +47,23 @@ February 2022 - Present, Atlanta, GA and Remote
 
 - Collaborates with Dev Ops team to plan product changes and communicate downtime procedures.  
 
-**Technologies used:** Mailchimp, REDCap, Amazon Web Services, AWS Academy, 
+**Technologies used:** Mailchimp, REDCap, Amazon Web Services, AWS Academy, ServiceNow. 
 
-### Senior Software Architect, Hooli
-2010-2016, San Francisco, CA
+### Part-Time UX Design Fellow, Georgia Tech
+September 2021 - March 2022, Remote
 
 - This is the job you had before your latest job
 - Did you do anything that wasn't part of your job description, but you excelled at? 
 
-**Technologies used:** Tell people about the languages, apps, technologies you used to succeed at this job. 
+**Technologies used:** Miro, Figma, Invision, Visual Studio, GitHub 
+
+
+
+
+
+
+
+
 
 ## Awards & Recognition 
   * Winner TechCrunch Disrupt 2001
