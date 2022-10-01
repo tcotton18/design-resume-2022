@@ -28,7 +28,7 @@ My transition to UX design is a direct result of years of being open to solving 
 **Cloud Computing**: Amazon Web Services S3 and EC2 Services
 
 ## Business Operations Skills
-``` Visual Communication Strategy```
+``` Visual Communications```
 ``` Financial Analysis```
 ``` Workshop Planning/Facilitation```
 ``` Conflict Management```
@@ -37,7 +37,7 @@ My transition to UX design is a direct result of years of being open to solving 
 
 ## UX/Product Experience
 ### Product Manager, AWS at Emory, Emory University
-February 2022 - Present, Atlanta, GA and Remote
+February 2022 - Present | Atlanta, GA and Remote
 
 - Leads product training, growth marketing campaigns, solution development and user advocacy for Amazon Web Services at Emory environment.
 
@@ -50,7 +50,7 @@ February 2022 - Present, Atlanta, GA and Remote
 **Technologies used:** Mailchimp, REDCap, Amazon Web Services, AWS Academy, ServiceNow. 
 
 ### Part-Time UX Design Fellow, Georgia Tech
-September 2021 - March 2022, Remote
+September 2021 - March 2022 | Remote
 
 Web-Based Projects:
 - Conducted user testing and redesigned the website for Open Hand Atlanta, a local non-profit that aims to reduce food insecurity for vulnerable populations. 
@@ -64,6 +64,20 @@ App-Based Projects:
 
 **Technologies used:** Miro, Figma, Invision, Visual Studio, GitHub 
 
+## Healthcare Operations Experience
+### Emory Healthcare | 2015 - 2022
+  ### Community Relations Manager, Emory University Hospital Midtown
+April 2019 - January 2022 | Atlanta, GA
+
+- Developed and implemented hospital-wide newsletter, event calendar, crisis communications plan and employee engagement strategies for 3,600 physicians and employees.  
+
+- Conducted competitive analysis and employee research for total reward initiatives. 
+
+- Managed community meal and supply donation process during COVID-19 pandemic.
+
+- Organized strategic leadership retreat for 150 leaders annually and compiled insights into annual operating plan. 
+
+- Coordinated sponsored marketing events, reaching 5,000 community members annually. 
 
 
 
@@ -71,16 +85,13 @@ App-Based Projects:
 
 
 
+## Community Impact  
+  * $1 Million Raised for American Heart Association | 2015 - 2021
+  * $3,200 Raised for Leukemia & Lymphoma Society (LLS) | 2017-2020
+  * Assistant Concertmaster, Atlanta Philharmonic Community Orchestra
+  * Seattle Marathon Coach, Team in Training, LLS | 2019
 
-## Awards & Recognition 
-  * Winner TechCrunch Disrupt 2001
-  * People Magazine's sexiest man alive at 123 My Address, MyCity, TX
 
-## Projects
-### Fellow, Radiology Leadership Academy, Emory University
-2018 - 2019 | Atlanta, GA
-
-- Worked collaboratively with clinicians and administrative teams to create content and redesign the patient education experience for PET/CT exams. 
 
 ## Education 
 
