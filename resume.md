@@ -52,8 +52,15 @@ February 2022 - Present, Atlanta, GA and Remote
 ### Part-Time UX Design Fellow, Georgia Tech
 September 2021 - March 2022, Remote
 
-- This is the job you had before your latest job
-- Did you do anything that wasn't part of your job description, but you excelled at? 
+Web-Based Projects:
+- Conducted user testing and redesigned the website for Open Hand Atlanta, a local non-profit that aims to reduce food insecurity for vulnerable populations. 
+
+- Performed heuristic evaluation, improved taxonomy, led the content redesign and redefined information architecture for Department of Education website.
+
+App-Based Projects:
+- Conducted generative research, competitive analysis and designed high-fidelity mockups for musician matchmaking app. 
+
+- Documented research plan, summarized findings and conducted user testing for location-based grocery shopping app.  
 
 **Technologies used:** Miro, Figma, Invision, Visual Studio, GitHub 
 
