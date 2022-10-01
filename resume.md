@@ -65,9 +65,9 @@ App-Based Projects:
 **Technologies used:** Miro, Figma, Invision, Visual Studio, GitHub 
 
 ## Healthcare Operations Experience
-### Emory Healthcare | 2015 - 2022
+### Emory Healthcare | Atlanta, GA | 2015 - 2022
+
   ### Community Relations Manager, Emory University Hospital Midtown
-April 2019 - January 2022 | Atlanta, GA
 
 - Developed and implemented hospital-wide newsletter, event calendar, crisis communications plan and employee engagement strategies for 3,600 physicians and employees.  
 
@@ -80,7 +80,17 @@ April 2019 - January 2022 | Atlanta, GA
 - Coordinated sponsored marketing events, reaching 5,000 community members annually. 
 
 
+### Business Manager, Emory University Hospital Midtown
 
+- Developed visual storytelling techniques to advocate for additional operating and capital resources. 
+
+- Conducted quarterly business review with the hospital executive team.
+
+- Worked with team of 12 leaders and 160 employees to administer strategic goal research and facilitated team retreat. 
+
+- Partnered with quality improvement team to lead implementation of a Lean daily management system for eight imaging modalities and supporting functions. 
+
+- Directed capital projects and led operational improvements in MRI, CT and Ultrasound, resulting in revenue increase of $49 million, year over year from FY18 to FY19.  
 
 
 
