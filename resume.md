@@ -14,7 +14,7 @@ author-meta: 'Troy Cotton'
 ## Troy Cotton 
 Emerging UX Designer | Product Manager | Healthcare Leader 
 
-My transition to UX design is a direct result of years of being open to solving new challenges in the healthcare operations space. I’ve solved financial analysis questions by facilitating workshops and designing diagrams; I’ve advocated for additional resources using visual storytelling techniques; and, I’ve designed communication strategies and workflows to inform and empower healthcare providers. Knowing how to directly apply my creativity to new environments will allow me to continue growing and flourishing as a UX Designer. 
+My transition to UX design is a direct result of my openness to solve new challenges throughout my career. I've used my creative mindset to tackle financial analyses, advocate for additional business resources and develop communication strategies that put team members and users at the center. My ability to adapt my skills to diverse environments will allow me to continue growing and flourishing as a UX Designer. 
 ###### [[example.com](https://example.com)] . [ me@example.com] . [ tcotton18@gmail.com ]
 
 ## UX/Product Skills
@@ -92,7 +92,13 @@ App-Based Projects:
 
 - Directed capital projects and led operational improvements in MRI, CT and Ultrasound, resulting in revenue increase of $49 million, year over year from FY18 to FY19.  
 
+### Administrative Fellow, Emory Revenue Cycle Operations
 
+Prototyped revenue variance toolkit, tested with 2 specialty practices to identify sources of revenue opportunities.
+
+Evaluated the competitive landscape of indigent care policies and worked with chief financial officers to launch revisions. 
+
+Streamlined recruitment and onboarding processes for incoming fellowship cohorts. 
 
 
 ## Community Impact  
@@ -101,13 +107,10 @@ App-Based Projects:
   * Assistant Concertmaster, Atlanta Philharmonic Community Orchestra
   * Seattle Marathon Coach, Team in Training, LLS | 2019
 
-
-
 ## Education 
 
-### Masters in BS, Example University 
+### UX Design Certificate, Georgia Institute of Technology, 2022
 
-- 4.0 GPA 
-- Deans List
-- Member of xyz club, etc. 
-- I didn't really go to college so I don't know what you would put here. 
+### Master's in Healthcare Administration, University of Kentucky, 2015
+
+### B.S. in Accounting, University of Kentucky, 2013
