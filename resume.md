@@ -3,7 +3,7 @@ margin-left: 2cm
 margin-right: 2cm
 margin-top: 1cm
 margin-bottom: 2cm
-title: Troy Cotton Resume
+title: Troy Cotton UX Design Resume
 description-meta: 'Troy Cotton UX Design Resume, Transition from Healthcare to UX Design'
 keywords: 
   - 'atlanta ux' 
