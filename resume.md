@@ -15,7 +15,8 @@ author-meta: 'Troy Cotton'
 Emerging UX Designer | Product Manager | Healthcare Leader | Atlantan
 
 My transition to UX design is a direct result of my openness to solve new challenges throughout my career. I've used my creative mindset to tackle financial analyses, advocate for additional business resources and develop communication strategies that put team members and users at the center. My ability to adapt my skills to diverse environments will allow me to continue growing and flourishing as a UX Designer. 
-###### Portfolio: [troycotton.com] . Phone: [502-819-6237] . Email: [ tcotton18@gmail.com ]
+
+###### Portfolio: Portfolio Website: [ troycotton.com ]. Phone: [502-819-6237] . Email: [ tcotton18@gmail.com ]
 
 ## UX/Product Skills
 ``` Prototyping/Wireframing```
